@@ -97,5 +97,3 @@ I believe in understanding the **why** before the **how**. My approach to learni
 ---
 
 *"Backend development is not just about making things work, it's about making them work elegantly."*
-
-[![GitHub followers](https://img.shields.io/github/followers/hoangtuan2k5?style=social)]([https://github.com/hoangtuan2k5](https://github.com/hoangtuan2k5))
