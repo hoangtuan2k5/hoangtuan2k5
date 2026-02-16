@@ -1,99 +1,62 @@
-# 👨‍💻 Hoang Chieu Nguyen Tuan
+# Hoang Chieu Nguyen Tuan
 
-> *"Success doesn’t come from what you do occasionally, it comes from what you do consistently."*
+Backend Engineer (Java & Spring Boot)
 
-[![Java](https://img.shields.io/badge/Java-Expert-red)](https://github.com/HoangChieuNguyenTuan)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Advancing-brightgreen)](https://github.com/HoangChieuNguyenTuan)
-[![Frontend](https://img.shields.io/badge/HTML%20CSS%20JS-Proficient-orange)](https://github.com/HoangChieuNguyenTuan)
-[![Algorithms](https://img.shields.io/badge/LeetCode-Medium-yellow)](https://github.com/HoangChieuNguyenTuan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/HoangChieuNguyenTuan)
+------------------------------------------------------------------------
 
-## 🚀 Backend Engineer in the Making
+## Professional Summary
 
-**2nd-year IT student** from Hanoi, Vietnam, with an unwavering passion for backend development. My journey is driven by understanding the core concepts rather than surface-level knowledge.
+IT student based in Hanoi, Vietnam, focused on backend engineering with
+a strong emphasis on fundamentals, clean architecture, and algorithmic
+thinking. My learning approach prioritizes first principles, clarity of
+design, and long-term technical growth.
 
-```java
-public class AboutMe {
-    public static void main(String[] args) {
-        Engineer me = new BackendDeveloper("Hoang Chieu Nguyen Tuan");
-        me.setMindset("First principles thinking");
-        me.setCodingPhilosophy("Understand deeply, implement cleanly");
-        me.setProblemSolvingApproach("Algorithm-first");
-        
-        System.out.println("Status: " + me.getStatus());
-        // Output: Status: Continuously evolving
-    }
-}
-```
+------------------------------------------------------------------------
 
-## 💻 Tech Arsenal
+## Technical Skills
 
-### 🔧 Core Skills
-- **Java** — Primary programming language
-- **Spring Boot** — Architecture & practical applications
-- **RESTful API** — Design & implementation
-- **Maven** — Build automation & dependency management
-- **Frontend Skills** — HTML, CSS, JavaScript
+### Core Technologies
 
-### 🧠 Algorithm & Data Structures
-- **Proficient in**: Linked lists, Stacks, Queues
-- **Working knowledge**: Hash maps, Quick sort, Binary search
-- **Big-O Analysis**: Time & space complexity optimization
-- **LeetCode**: Solved multiple medium difficulty problems
+-   Java
+-   Spring Boot
+-   RESTful API design
+-   Maven
+-   HTML, CSS, JavaScript
 
-### 🛠️ Development Tools
-- **IDE**: IntelliJ IDEA / VS Code
-- **Version Control**: Git & GitHub (pull requests, commit standards)
-- **Testing**: JUnit, Postman (basics)
-- **Learning**: Software architecture, Microservices patterns
+### Algorithms & Data Structures
 
-## 🔥 Current Focus
+-   Linked List, Stack, Queue
+-   HashMap (working knowledge)
+-   Quick Sort, Binary Search
+-   Big-O analysis (time & space complexity)
+-   Experience solving medium-level algorithm problems
 
-```
-┌───────────────────────────────────────┐
-│                                       │
-│   Mastering Spring Boot Architecture  │
-│                                       │
-└───────────────────────────────────┬───┘
-                                    │
-                                    ▼
-┌───────────────────────────────────────┐
-│                                       │
-│     Backend Design Patterns           │
-│                                       │
-└───────────────────────────────────┬───┘
-                                    │
-                                    ▼
-┌───────────────────────────────────────┐
-│                                       │
-│   Advanced Algorithm Challenges       │
-│                                       │
-└───────────────────────────────────────┘
-```
+### Tools & Practices
 
-## 📚 Learning Philosophy
+-   IntelliJ IDEA, VS Code
+-   Git & GitHub (branching, pull requests, commit conventions)
+-   JUnit (basic testing)
+-   Postman (API testing)
+-   Currently studying software architecture and microservices patterns
 
-I believe in understanding the **why** before the **how**. My approach to learning is methodical but never dull—I'm what you might call "seriously cool" about tech education.
+------------------------------------------------------------------------
 
-> **toothbrush** (*a small brush for cleaning your teeth*)
-> 
-> I appreciate clear, technical definitions that get straight to the point.
+## Current Focus
 
-## 🌱 Short-term Goals
+-   Deepening understanding of Spring Boot architecture
+-   Applying backend design patterns in real-world projects
+-   Improving algorithmic problem-solving skills
+-   Strengthening technical English for software engineering
 
-- Master Spring Boot and backend architecture
-- Apply design patterns in real-world backend projects
-- Level up algorithmic skills (targeting LeetCode Hard)
-- Improve technical English communication
-- Start a tech blog (time permitting)
+------------------------------------------------------------------------
 
-## 💪 Character Traits
+## Learning Philosophy
 
-- Disciplined, serious about learning
-- Independent researcher who digs deep before coding
-- Strong personality with an authentic, "cool" self-expression
-- Problem solver who enjoys technical challenges
+I focus on understanding the "why" before the "how". Clear architecture,
+maintainable code, and solid fundamentals are the foundation of
+sustainable backend development.
 
----
+------------------------------------------------------------------------
 
-*"Backend development is not just about making things work, it's about making them work elegantly."*
+"Backend development is not only about functionality, but about building
+systems that are reliable, maintainable, and scalable."
